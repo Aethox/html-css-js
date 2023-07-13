@@ -10,6 +10,11 @@
       "StackName": "amplify-instanciasteven-dev-183723",
       "StackId": "arn:aws:cloudformation:us-east-2:776516132940:stack/amplify-instanciasteven-dev-183723/0e4f6600-210d-11ee-97ef-02956cfc89cb",
       "AmplifyAppId": "d3gpuvnzpk8jph"
+    },
+    "categories": {
+      "auth": {
+        "instanciastevene6e48d69": {}
+      }
     }
   }
 }
